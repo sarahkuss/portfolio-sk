@@ -1,6 +1,6 @@
 export default function Projects() {
   return (
-    <section className="text-gray-600 body-font bg-orange-300 bg-opacity-90 mt-10">
+    <section className="text-gray-600 body-font bg-orange-300 bg-opacity-90 mt-10 w-screen">
       <div className="container px-5 py-10 mx-auto">
         <div className="flex flex-wrap w-full mb-5">
           <div className="lg:w-1/2 w-full mb-0 lg:mb-0">
