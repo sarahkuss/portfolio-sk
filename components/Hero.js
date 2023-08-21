@@ -58,7 +58,7 @@ export default function Hero() {
                 </svg>
               </a>
               <a
-                href="https://conservationconnect.net/"
+                href="https://bocacode.com/alumni/software-engineer/sarah-kuss"
                 className="ml-3 text-gray-900 inline-flex"
                 target="_blank"
                 rel="noreferrer"
