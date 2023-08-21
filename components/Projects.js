@@ -53,7 +53,7 @@ export default function Projects() {
                 Janssen Partners
               </h2>
               <p className="leading-relaxed text-base">
-                WordPress website built for Janssen Partners using plugins and custom themes.
+                WordPress website built using Elementor, plugins, widgets, and SEO best practices.
               </p>
             </div>
           </div>
