@@ -59,7 +59,7 @@ export default function Projects() {
           </div>
           <div className="xl:w-1/4 md:w-1/2 p-4">
             <div className="bg-gray-100 p-6 rounded-lg">
-              <a href="https://mpa-coaching-website.web.app/" target="_blank" rel="noreferrer">
+              <a href="https://mpa-yourbestlife.coach/" target="_blank" rel="noreferrer">
                 <img
                   className="h-40 rounded w-full object-cover object-center mb-6"
                   src="/images/mpa.png"
